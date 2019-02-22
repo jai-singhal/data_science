@@ -5,6 +5,10 @@
 *.pot
 *.py[co]
 .tox/
+
+# large dataset
+*.ft.txt
+
 __pycache__
 MANIFEST
 dist/
